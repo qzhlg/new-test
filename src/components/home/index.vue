@@ -34,7 +34,8 @@ data(){
                  this.listdata=res.data.data
             console.log(res.data.data)
         })
-        }
+        },
+        
     }
 }
 </script>
